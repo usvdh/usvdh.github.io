@@ -92,7 +92,6 @@ So, I play in on this idea using actual sounds I captured with the plants. The w
 
 I started with using equipment at home to record the sounds. Regular consumer equipment is not made for recording ultrasonic recordings, but by using special microphones (LOM Audio BasicUchos) connected to a high-end audio interface (MOTU M2), I was able to capture my first recordings. I was having some issues with noise, so I also later on assembled my own DIY ultrasonic microphone, made with a microfone board (SPU0410LR5H-QB), which would usually be used for recording bat sounds. However, they worked splendidly for recording plant sounds as well.
 
-As featured on the HKU newsletter: https://www.hku.nl/nieuws/kruisbestuiving-tussen-natuur-en-kunst-op-hku-expo-in-amelisweerd
-
-Part of the Landhuis Amelisweerd HKU BioDesign Exhibition: https://landhuisoudamelisweerd.nl/hku-biodesign-challenge/
+As featured on the <a href="https://www.hku.nl/nieuws/kruisbestuiving-tussen-natuur-en-kunst-op-hku-expo-in-amelisweerd">HKU Newsletter</a>. 
+Part of the <a href="https://landhuisoudamelisweerd.nl/hku-biodesign-challenge/">Landhuis Amelisweerd HKU BioDesign Exhibition</a>.
 
