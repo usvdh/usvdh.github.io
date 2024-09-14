@@ -1,8 +1,8 @@
 ---
 layout: page
-title: I LIGHT U - Hoog Catharijne
-description: In collaboration with Joni van de Griendt. A project about the influence of mobile phones on our daily lives.
-img: assets/img/fppparadiso/img1.jpeg
+title: I LIGHT U 2024 - Hoog Catharijne
+description: 
+img: assets/img/hoogcatharijne/img1.jpeg
 importance: 2
 category: work
 giscus_comments: false
@@ -21,5 +21,7 @@ Visuals for the I LIGHT U 2024 festival on the screens of the Hoog Catharijne sh
         {% include figure.liquid loading="eager" path="assets/img/hoogcatharijne/stroom-1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+Dit digitale kunstwerk toont vloeiende deeltjes die op water lijken. Deze symboliseren de continue stroom van mensen in Hoog Catharijne, waarbij de beweging van het winkelpubliek op een dynamische en visueel indrukwekkende manier wordt weergegeven.
 
 Part of <a href="https://ilightu.nl/hku-shorts/">I Light U Festival 2024</a>. 
