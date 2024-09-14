@@ -22,8 +22,8 @@ We brengen dit samen door op 11 juni niet de spiegel, maar de eigen selfie camer
         {% include figure.liquid path="assets/img/plantcohabitation/img1.jpeg" title="FPP Paradiso 2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    In the process of making the installation, I was having a hard time showing my project to people, without having the installation set up. I wanted to make something that would get the point of the work across. This led to me making this short 5 minute interview with a plant, touching on all the subjects I wanted to convey.  This video can be watched back <a href="https://www.youtube.com/watch?v=n1cuoMDqmtQ">here</a>. 
-</div>
 
-https://www.fpp.amsterdam/profile-performer/joni-sen
+
+Part of <a href="https://www.fpp.amsterdam/profile-performer/joni-sen">FPP ALLES
+VOOR HET EXPERIMENT</a>.
+
