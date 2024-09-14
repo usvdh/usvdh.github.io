@@ -2,7 +2,7 @@
 layout: page
 title: FPP Paradiso - Untitled
 description: In collaboration with Joni van de Griendt. A project about the influence of mobile phones on our daily lives.
-img: assets/img/fppparadiso/img1.jpeg
+img: assets/img/fppparadiso/img2.jpeg
 importance: 2
 category: work
 giscus_comments: false
@@ -19,7 +19,7 @@ We brengen dit samen door op 11 juni niet de spiegel, maar de eigen selfie camer
         {% include figure.liquid path="assets/img/fppparadiso/img2.jpg" title="FPP Paradiso 1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/plantcohabitation/img1.jpeg" title="FPP Paradiso 2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/fppparadiso/img1.jpeg" title="FPP Paradiso 2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
