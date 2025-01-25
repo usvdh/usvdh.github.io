@@ -1,0 +1,10 @@
+---
+layout: post
+date: 2025-01-26 12:59:00-0400
+title: Hakubo I will be exhibited at ERROR030 KABUL à GoGo
+inline: false
+related_posts: false
+---
+On February 1st me and the lovely <a href="https://www.uncloud.nl">Uncloud</a> at <a href="https://www.instagram.com/hebbinkallard/">Allard Hebbink</a> will be exhibiting our collaborative audio-visual installation "Hakubo I" for the ERROR030 club night at KABUL à GoGo.
+
+Tickets available <a href="https://www.kabulagogo.nl/events/error030-0201">here</a>.
