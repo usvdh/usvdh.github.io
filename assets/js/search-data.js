@@ -53,6 +53,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/plant-cohabitation-featured/";
+            },},{id: "news-plant-cohabitation-featured-on-the-hku-newsletter",
+          title: 'Plant Cohabitation featured on the HKU Newsletter!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/uncloud-dj-set-stranded-fm/";
+            },},{id: "news-hakubo-i-will-be-exhibited-at-error030-kabul-à-gogo",
+          title: 'Hakubo I will be exhibited at ERROR030 KABUL à GoGo',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/hakubo-exhibition_error030/";
             },},{id: "projects-plant-cohabitation",
           title: 'Plant Cohabitation',
           description: "In our daily lives, we coexist with more organisms than we realise. The plant that we often see as decoration makes sounds beyond our audible range that many mammals and insects can hear. Their presence in our environment is much greater than we think.",
