@@ -62,7 +62,7 @@ ninja.data = [{
           title: 'Hakubo I will be exhibited at ERROR030 KABUL à GoGo',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/hakubo-exhibition-kabul/";
+              window.location.href = "/news/hakubo-error030/";
             },},{id: "projects-plant-cohabitation",
           title: 'Plant Cohabitation',
           description: "In our daily lives, we coexist with more organisms than we realise. The plant that we often see as decoration makes sounds beyond our audible range that many mammals and insects can hear. Their presence in our environment is much greater than we think.",
