@@ -53,8 +53,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/plant-cohabitation-featured/";
-            },},{id: "news-plant-cohabitation-featured-on-the-hku-newsletter",
-          title: 'Plant Cohabitation featured on the HKU Newsletter!',
+            },},{id: "news-uncloud-dj-set-at-stranded-fm",
+          title: 'Uncloud DJ Set at Stranded.fm',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/uncloud-dj-set-stranded-fm/";
