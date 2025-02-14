@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-field-recordings-i",
+        },{id: "post-how-to-leave-instagram-without-leaving-your-friends-an-introduction-to-the-fediverse",
+      
+        title: "How to leave Instagram without leaving your friends. An introduction to the Fediverse....",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/leaving-meta/";
+        
+      },
+    },{id: "post-field-recordings-i",
       
         title: "Field Recordings I",
       
