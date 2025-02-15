@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to leave Instagram without leaving your friends. An introduction to the Fediverse.
-date: 2025-02-13 12:00:00
+date: 2025-02-14 12:00:00
 description: 
 tags: 
 categories: article guide algorithms social-media
@@ -14,17 +14,17 @@ toc:
 
 We're in the age of the algorithmic internet {% cite lu_algorithmic_nodate %}. For the average user, almost every aspect of the internet is decided by personalized algorightms.
 
-If a right leaning person searches for "gaza", wildly different results will appear compared to a left leaning person. Search results are tailored to each and every person, algorithms know exactly what to show you to keep you engaged (and addicted), so that they can keep serving you targeted ads. If you look at it like this, companies such as Meta and Google, are literally milking you out of your time and energy for their monetary gain. The more targeted the ads they serve are, the more they get paid, so these companies are incentivised to collect as much data as possible, and to keep you on their platform as long as possible.
+If a right leaning person searches for "gaza", wildly different results will appear compared to a left leaning person. Search results are tailored to each and every person, algorithms know exactly what to show you to keep you engaged (and addicted), so that they can keep serving you targeted ads. If you look at it like this, companies such as Meta and Google, are literally milking you out of your time and energy for their monetary gain. The more targeted the ads are, the more they get paid, so these companies are incentivised to collect as much personal data as possible, and to keep you on their platform as long as possible.
 
-But, this also creates a much bigger problem; the content you are served is presented as having no political bias. These algorithms keep serving us content that reinforces our world view, and makes it appear as if any other view is non-existant. Every single one of us has their own internet, specifically tailored for your views and opinions. We all live in our own filter bubble {% cite pariser2011filter %}. 
+But, this also creates a much bigger problem; the content you are served is presented as having no political bias. These algorithms keep serving us content that reinforces our world view, and makes it appear as if any other view is non-existant. Every single one of us has their own internet, specifically tailored for your views and opinions. We all live in our own filter bubble {% cite pariser2011filter %}.
 
-Meta has incited genocide in Myanmar {% cite noauthor_facebook_2021-1 noauthor_myanmar_2022 %}. Meta has caused major interference in elections {% cite talbot_facebook_2012 rosenberg_how_2018 %}. And more recently, Meta is radically changing its policies and embracing Donald Trump by abolishing its fact-checking program, eliminating Diversity, Equity and Inclusivity initiatives, and replacing its former liberal-leaning policy head Nick Clegg {% cite nix_inside_2025 %}. Now, Meta lets users call call women 'property' and queer people 'mentally ill' on their platforms {% cite yeo_meta_2025 %}.
+Meta has incited genocide in Myanmar {% cite noauthor_facebook_2021-1 noauthor_myanmar_2022 %}. Meta has caused major interference in elections {% cite talbot_facebook_2012 rosenberg_how_2018 %}. And more recently, Meta is radically changing its policies and embracing Donald Trump by abolishing its fact-checking program, eliminating Diversity, Equity and Inclusivity initiatives, and replacing its former liberal-leaning policy head Nick Clegg {% cite nix_inside_2025 %}. Now, Meta lets users call women 'property' and queer people 'mentally ill' on their platforms {% cite yeo_meta_2025 %}.
 
 And that's only the tip of the iceberg of all of Meta's scandals.
 
 It's clear; **we need to stop using Meta products**. But how can we do that? Removing Instagram, and especially removing your account, can feel like cutting your social ties with all your friends, it can almost feel like you're moving to Antarctica; socially isolated.
 
-But don't you worry! There are alternatives; alternatives that don't exploit its users for their own financial gain, alternatives that don't collect every detail of your personal information, alternatives that aren't designed to addictive, and designed to be actually social.
+But don't you worry! There are alternatives; alternatives that don't exploit its users for their own financial gain, alternatives that don't collect every detail of your personal information, alternatives that aren't designed to be addictive, and designed to be actually social.
 
 And by slowly transitioning to these platforms, we can bring our social networks with us. Usage of such platforms need to spread slowly but surely. It takes time to convince people, and by being one of the first to do so, you can trigger a slow revolution.
 
