@@ -14,11 +14,11 @@ toc:
 
 We're in the age of the algorithmic internet {% cite lu_algorithmic_nodate %}. For the average user, almost every aspect of the internet is decided by personalized algorightms.
 
-If a right leaning person searches for "gaza", wildly different results will appear compared to a left leaning person. Search results are tailored to each and every person, algorithms know exactly what to show you to keep you engaged (and addicted), so that they can keep serving you targeted ads. If you look at it like this, companies such as Meta and Google, are literally milking you out of your time and energy for their monetary gain. The more targeted the ads are, the more they get paid, so these companies are incentivised to collect as much personal data as possible, and to keep you on their platform as long as possible.
+If a right leaning person searches for "gaza", wildly different results will appear compared to a left leaning person. Or, say, if you live in Israel vs. the Arab world {% cite security_defeating_2023 amnesty_global_2023 %}. Search results are tailored to each and every person, algorithms know exactly what to show you to keep you engaged (and addicted), so that they can keep serving you targeted ads. If you look at it like this, companies such as Meta and Google, are literally milking you out of your time and energy for their monetary gain. The more targeted the ads are, the more they get paid, so these companies are incentivised to collect as much personal data as possible, and to keep you on their platform as long as possible to show as many ads as they can.
 
 But, this also creates a much bigger problem; the content you are served is presented as having no political bias. These algorithms keep serving us content that reinforces our world view, and makes it appear as if any other view is non-existant. Every single one of us has their own internet, specifically tailored for your views and opinions. We all live in our own filter bubble {% cite pariser2011filter %}.
 
-Meta has incited genocide in Myanmar {% cite noauthor_facebook_2021-1 noauthor_myanmar_2022 %}. Meta has caused major interference in elections {% cite talbot_facebook_2012 rosenberg_how_2018 %}. And more recently, Meta is radically changing its policies and embracing Donald Trump by abolishing its fact-checking program, eliminating Diversity, Equity and Inclusivity initiatives, and replacing its former liberal-leaning policy head Nick Clegg {% cite nix_inside_2025 %}. Now, Meta lets users call women 'property' and queer people 'mentally ill' on their platforms {% cite yeo_meta_2025 %}.
+Meta has incited genocide in Myanmar {% cite noauthor_facebook_2021-1 noauthor_myanmar_2022 amnesty_social_2022 %}. Meta has caused major interference in elections {% cite talbot_facebook_2012 rosenberg_how_2018 %}. Meta has done an outright blackout and “shadowbanning” of Palestinian content {% cite amnesty_global_2023 %}. And more recently, Meta is radically changing its policies and embracing Donald Trump by abolishing its fact-checking program, eliminating Diversity, Equity and Inclusivity initiatives, and replacing its former liberal-leaning policy head Nick Clegg {% cite nix_inside_2025 %}. Now, Meta lets users call women 'property' and queer people 'mentally ill' on their platforms {% cite yeo_meta_2025 %}.
 
 And that's only the tip of the iceberg of all of Meta's scandals.
 
@@ -56,6 +56,7 @@ But, the tough part is to get people to transition with you. Even if you're conv
 
 * If you (want to) allow Signal access to your contacts, you can see which of your contacts are already on the app. If you give permission for your contacts, [Signal won't be able to see them](https://signal.org/blog/private-contact-discovery/)
 * Send articles like this to your friends, convince them to move over to Signal. Friends that already have the app downloaded are the easiest place to start!
+* Switch WhatsApp to Signal on your phone's homescreen
 * Change your profile picture on WhatsApp to something like this, courtesy of Reddit user [/u/agnibho](https://www.reddit.com/r/signal/comments/kv84ry/my_new_profile_picture_on_whatsapp/).
 
 <div class="row mt-3">
@@ -87,6 +88,8 @@ For now, the first (and only) choice you have to make is what kind of social med
 * [Mastodon](https://mastodon.social/auth/sign_up) - Closer to Twitter-style short text based social media
 * [Pixelfed](https://pixelfed.social/register) - Closer to Instagram-style image based social media
 
+There's also apps available on the App/Play stores.
+
  **You can move servers (cities) later on, with no data loss.** Choose the server (city) where you want to stay long term when you're more comfortable with the platform. And no need for FOMO, **you can interact with Pixelfed from Mastodon and vice-versa**!
 
 Setup your profile however you like, and start following people!
@@ -98,6 +101,7 @@ When sharing your account, you always need your username@server, this is because
 Here's some Fediverse specific tips on taking your peers with you:
 * Talk about it!
 * Make it clear you're leaving; add a caption in every post that you're leaving, make a post announcing your leave, put it in your bio!
+* Switch Instagram/FaceBook to your Fediverse app on your phone's homescreen
 * Change your profile picture
 
 I tried making some profile pictures to put on your Instagram based on the Signal one above, but I really need to work on my GIMP skills...
@@ -125,13 +129,17 @@ Keep using Meta services for a bit, but with the attached profile pictures. Imag
 
 Now, you've been on the Fediverse for a while, and want to start looking at different servers (cities) to be on, different clients (apps) to use to access social media. Here are a couple guides to dive in further:
 
+* [.zip newsletter about leaving Meta](https://mailchi.mp/f651aa17522d/playground-17228878)
 * [How to get started on Mastodon / The Fediverse](https://www.kristofferlislegaard.com/blog/2025-01-25-how-to-get-started-on-mastodon-fediverse/)
+* [fediverseresources.com - Extensive list of resources about the Fediverse](https://fediverseresources.com/)
 * [fedi.garden - An easy and stress-free way of choosing a Fediverse server](https://fedi.garden/)
 * [Transferring your Mastodon account to another server](https://fedi.tips/transferring-your-mastodon-account-to-another-server/)
 
-These resources I found through the varia fediverse meetup, more on it below!
+Some of resources I found through the [varia](https://varia.zone/) fediverse meetup, more on it below!
 
-## Thoughts on algorithms
+<br/>
+
+# Thoughts on algorithms
 
 As Eli Pariser puts so elegantly in his 2011 book "The Filter Bubble: What the Internet Is Hiding from You":
 
@@ -171,7 +179,7 @@ Privacy Guides: [https://www.privacyguides.org/en/](https://www.privacyguides.or
 
 I got properly introducted to the Fediverse at [varia](https://varia.zone/social-in-the-media-get-together.html). I can't express how thankful I am to all the people organising the event.
 
-Similar thanks to the [.zip](zipspace.nl) newsletter about their transition away from Meta. It served as major inspiration for this writeup.
+Similar thanks to the [.zip](zipspace.nl) newsletter [about their transition away from Meta](https://mailchi.mp/f651aa17522d/playground-17228878). It served as major inspiration for this writeup.
 
 # Further Reading
 
