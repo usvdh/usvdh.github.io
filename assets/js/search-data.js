@@ -118,11 +118,25 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/senvanderheide", "_blank");
         },
       },{
+        id: 'social-mastodon',
+        title: 'Mastodon',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://usvdh@kolektiva.social", "_blank");
+        },
+      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
           window.open("/feed.xml", "_blank");
+        },
+      },{
+        id: 'social-youtube',
+        title: 'YouTube',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://youtube.com/@usvdh", "_blank");
         },
       },{
       id: 'light-theme',
