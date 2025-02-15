@@ -85,8 +85,8 @@ For some servers (cities) it takes a bit of time before you can get your account
 
 For now, the first (and only) choice you have to make is what kind of social media network (province) you are looking for. 
 
-* [Mastodon](https://mastodon.social/auth/sign_up) - Closer to Twitter-style short text based social media
-* [Pixelfed](https://pixelfed.social/register) - Closer to Instagram-style image based social media
+* [Mastodon.social](https://mastodon.social/auth/sign_up) - Closer to Twitter-style short text based social media
+* [Pixelfed.social](https://pixelfed.social/register) - Closer to Instagram-style image based social media
 
 There's also apps available on the App/Play stores.
 
