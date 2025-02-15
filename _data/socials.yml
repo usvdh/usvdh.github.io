@@ -21,7 +21,7 @@ instagram_id: senvanderheide # your instagram id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
 linkedin_username: senvanderheide # your LinkedIn user name
-# mastodon_username: # your mastodon instance+username in the format instance.tld/@username
+mastodon_username: usvdh@kolektiva.social # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
 # osf_id: # your OSF ID
@@ -43,7 +43,7 @@ rss_icon: true # set to true to show the RSS icon
 # wikipedia_id: # your wikipedia id (Case sensitive)
 # work_url: # work page URL
 # x_username: # your X handle
-# youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
+youtube_id: usvdh # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 # custom_social: # can be any name here other than the ones already defined above
 #   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
