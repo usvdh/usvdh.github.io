@@ -16,7 +16,7 @@ We're in the age of the algorithmic internet {% cite lu_algorithmic_nodate %}. F
 
 If a right leaning person searches for "gaza", wildly different results will appear compared to a left leaning person. Search results are tailored to each and every person, algorithms know exactly what to show you to keep you engaged (and addicted), so that they can keep serving you targeted ads. If you look at it like this, companies such as Meta and Google, are literally milking you out of your time and energy for their monetary gain.
 
-But, this also creates a much bigger problem; the content you are served is presented as having no political bias. These algorithms keep serving us content that reinforces our world view, and makes it appear as if any other view is non-existant. Every single one of us has their own internet, specifically tailored for your views and opinions.
+But, this also creates a much bigger problem; the content you are served is presented as having no political bias. These algorithms keep serving us content that reinforces our world view, and makes it appear as if any other view is non-existant. Every single one of us has their own internet, specifically tailored for your views and opinions. We all live in our own filter bubble {% cite pariser2011filter %}. 
 
 Meta has incited genocide in Myanmar {% cite noauthor_facebook_2021-1 noauthor_myanmar_2022 %}. Meta has caused major interference in elections {% cite talbot_facebook_2012 rosenberg_how_2018 %}. And more recently, Meta is radically changing its policies and embracing Donald Trump by abolishing its fact-checking program, eliminating Diversity, Equity and Inclusivity initiatives, and replacing its former liberal-leaning policy head Nick Clegg {% cite nix_inside_2025 %}. Now, Meta lets users call call women 'property' and queer people 'mentally ill' on their platforms {% cite yeo_meta_2025 %}.
 
@@ -92,6 +92,10 @@ My account address is "usvdh@kolektiva.social", try to find me :)
 
 When sharing your account, you always need your username@server, this is because, in the same imaginary world, your message would need to be delivered to the correct city! 
 
+Here's some Fediverse specific tips on taking your peers with you:
+* Talk about it!
+* 
+
 I tried making some profile pictures to put on your Instagram based on the Signal one above, but I really need to work on my GIMP skills...
 
 <div class="row mt-3">
@@ -124,22 +128,20 @@ Something about knowledge gap
 
 # Whilst you're at it, de-Google your life!
 
-(need to write this out still)
-https://github.com/tycrek/degoogle
+Google is just as much a toxin to the internet and our lives as Meta is. The most impactful concrete steps are to:
 
-Other considerations; google, big tech. 
+* Replace your web browser. For desktop, [Firefox](https://www.mozilla.org/en-US/firefox/new/) or [Orion](https://kagi.com/orion/) are very good alternatives. 
+* Even if you have, say, Firefox as your browser, your internet searches will still be conducted with the Google search engine. Good alternatives for this are [DuckDuckGo](https://duckduckgo.com/) or [Startpage](https://www.startpage.com/). [How to change your default search engine on Firefox](https://support.mozilla.org/en-US/kb/change-your-default-search-settings-firefox)
 
-## Other steps
+And a more detailed explanation of why and how you should deGoogle your life: https://androides.nl/degoogle-guide/#mcetoc_1hnoa3an119q
 
-
+For an extensive list of alternatives do products such as Google Docs, YouTube, etc.: https://github.com/tycrek/degoogle
 
 # Special thanks
 
 I got properly introducted to the Fediverse at [varia](https://varia.zone/social-in-the-media-get-together.html). I can't express how thankful I am to all the people organising the event.
 
-Similar thanks to the [zip.space](zipspace.nl) newsletter about their transition away from Meta. It served as major inspiration for this writeup. 
-
-
+Similar thanks to the [zip.space](zipspace.nl) newsletter about their transition away from Meta. It served as major inspiration for this writeup.
 
 # Further Reading
 
