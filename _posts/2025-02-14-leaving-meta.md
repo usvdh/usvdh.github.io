@@ -171,7 +171,7 @@ Privacy Guides: [https://www.privacyguides.org/en/](https://www.privacyguides.or
 
 I got properly introducted to the Fediverse at [varia](https://varia.zone/social-in-the-media-get-together.html). I can't express how thankful I am to all the people organising the event.
 
-Similar thanks to the [zip.space](zipspace.nl) newsletter about their transition away from Meta. It served as major inspiration for this writeup.
+Similar thanks to the [.zip](zipspace.nl) newsletter about their transition away from Meta. It served as major inspiration for this writeup.
 
 # Further Reading
 
