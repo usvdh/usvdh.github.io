@@ -169,7 +169,7 @@ But Google is EVERYWHERE. These are just the first few steps of your stroll to M
 
 A more detailed explanation of why and how you should deGoogle your life: [https://androides.nl/degoogle-guide/#mcetoc_1hnoa3an119q](https://androides.nl/degoogle-guide/#mcetoc_1hnoa3an119q)
 
-For an extensive open-source list of alternatives do products such as Google Docs, YouTube, etc.: [https://tycrek.github.io/degoogle/](https://tycrek.github.io/degoogle/)
+For an extensive open-source list of alternatives to products such as Google Docs, YouTube, etc.: [https://tycrek.github.io/degoogle/](https://tycrek.github.io/degoogle/)
 
 Privacy Guides: [https://www.privacyguides.org/en/](https://www.privacyguides.org/en/)
 
