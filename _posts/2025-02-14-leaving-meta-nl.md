@@ -58,6 +58,7 @@ Maar het moeilijke deel is je vrienden meekrijgen. Hier zijn een paar tips:
 
 * Als je Signal toegang geeft tot je contacten, kun je zien wie van je vrienden het al gebruikt. Maar zelfs dan kan [Signal je contacten niet zien door hun privacyvriendelijke systeem](https://signal.org/blog/private-contact-discovery/)
 * Stuur artikelen zoals dit naar je vrienden om ze te overtuigen. Begin met vrienden die Signal al hebben, maar nog niet actief gebruiken!
+* Stel voor groepsappen, zoals klassen apps, over te zetten naar Signal
 * Vervang het WhatsApp-icoon op je telefoonscherm met Signal.
 * Verander je WhatsApp-profielfoto in iets als dit, gemaakt door Reddit-gebruiker [/u/agnibho](https://www.reddit.com/r/signal/comments/kv84ry/my_new_profile_picture_on_whatsapp/).
 

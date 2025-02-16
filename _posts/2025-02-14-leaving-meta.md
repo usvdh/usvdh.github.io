@@ -40,7 +40,7 @@ There are most likely only two (or three) Meta products you are using right now;
 
 I'll present two alternatives, without getting into the nitty-gritty aspects.
 
-In my opinion, it's **impossible** to transition to another platform instantaniously. You can't just leave Instagram or WhatsApp today. *We have an existing social network on these platforms*. The only way to make a succesful transition is to transfer slowly, and to *take your peers along in the process*. 
+In my opinion, it's **impossible** to transition to another platform instantaniously. You can't just leave Instagram or WhatsApp today. *We have an existing social network on these platforms*. The only way to make a succesful transition is to transfer slowly, and to *take your peers along in the process*.
 
 You need a transition period in which you're active on both platforms, but make it expressively clear that eventually you will transition. Every post you make, every new groupchat you join. You can change your bio, your profile picture, everything!!
 
@@ -58,6 +58,7 @@ But, the tough part is to get people to transition with you. Even if you're conv
 
 * If you (want to) allow Signal access to your contacts, you can see which of your contacts are already on the app. If you give permission for your contacts, [Signal won't be able to see them](https://signal.org/blog/private-contact-discovery/)
 * Send articles like this to your friends, convince them to move over to Signal. Friends that already have the app downloaded are the easiest place to start!
+* Propose to move over groupchats, such as one for you class, to move to Signal
 * Switch WhatsApp to Signal on your phone's homescreen
 * Change your profile picture on WhatsApp to something like this, courtesy of Reddit user [/u/agnibho](https://www.reddit.com/r/signal/comments/kv84ry/my_new_profile_picture_on_whatsapp/).
 
