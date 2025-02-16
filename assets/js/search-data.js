@@ -48,6 +48,17 @@ ninja.data = [{
           window.location.href = "/blog/2025/leaving-meta/";
         
       },
+    },{id: "post-hoe-verlaat-je-instagram-zonder-je-vrienden-te-verlaten-een-introductie-aan-de-fediverse",
+      
+        title: "Hoe verlaat je Instagram zonder je vrienden te verlaten? Een introductie aan de...",
+      
+      description: "(NL)",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/leaving-meta-nl/";
+        
+      },
     },{id: "post-field-recordings-i",
       
         title: "Field Recordings I",
