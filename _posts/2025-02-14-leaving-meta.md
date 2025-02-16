@@ -10,6 +10,8 @@ toc:
   sidebar: left
 ---
 
+This article was originally written in English. If you would rather read it in Dutch, read it <a href='https://usvdh.com/blog/2025/leaving-meta-nl/'>here</a>.
+
 # Meta is fucked
 
 We're in the age of the algorithmic internet {% cite lu_algorithmic_nodate %}. For the average user, almost every aspect of the internet is decided by personalized algorightms.
