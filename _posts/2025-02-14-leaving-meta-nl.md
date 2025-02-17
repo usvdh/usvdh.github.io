@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An open letter to all HKU students, personnel, and board
+title: Hoe je Instagram kunt verlaten zonder je vrienden te verlaten. Een introductie aan de Fediverse.
 date: 2025-02-14 12:00:00
 description: 
 tags: 
