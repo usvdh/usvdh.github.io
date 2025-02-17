@@ -59,9 +59,9 @@ ninja.data = [{
           window.location.href = "/blog/2025/leaving-meta/";
         
       },
-    },{id: "post-an-open-letter-to-all-hku-students-personnel-and-board",
+    },{id: "post-hoe-je-instagram-kunt-verlaten-zonder-je-vrienden-te-verlaten-een-introductie-aan-de-fediverse",
       
-        title: "An open letter to all HKU students, personnel, and board",
+        title: "Hoe je Instagram kunt verlaten zonder je vrienden te verlaten. Een introductie aan...",
       
       description: "",
       section: "Posts",
