@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-how-to-leave-instagram-without-leaving-your-friends-an-introduction-to-the-fediverse",
+        },{id: "post-an-open-letter-to-all-hku-students-personnel-and-board",
+      
+        title: "An open letter to all HKU students, personnel, and board",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/leaving-meta-nl/";
+        
+      },
+    },{id: "post-how-to-leave-instagram-without-leaving-your-friends-an-introduction-to-the-fediverse",
       
         title: "How to leave Instagram without leaving your friends. An introduction to the Fediverse....",
       
@@ -48,15 +59,15 @@ ninja.data = [{
           window.location.href = "/blog/2025/leaving-meta/";
         
       },
-    },{id: "post-hoe-je-instagram-kunt-verlaten-zonder-je-vrienden-te-verlaten-een-introductie-aan-de-fediverse",
+    },{id: "post-how-to-leave-instagram-without-leaving-your-friends-an-introduction-to-the-fediverse",
       
-        title: "Hoe je Instagram kunt verlaten zonder je vrienden te verlaten. Een introductie aan...",
+        title: "How to leave Instagram without leaving your friends. An introduction to the Fediverse....",
       
-      description: "(NL)",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/leaving-meta-nl/";
+          window.location.href = "/blog/2025/hku-open-letter/";
         
       },
     },{id: "post-field-recordings-i",
