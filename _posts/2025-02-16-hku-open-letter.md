@@ -1,13 +1,11 @@
 ---
 layout: post
 title: An open letter to all HKU students, personnel, and board
-date: 2025-02-14 12:00:00
+date: 2025-02-16 12:00:00
 description: 
 tags: 
 categories: algorithms social-media
 related_publications: true
-toc:
-  sidebar: left
 ---
 
 English version further below 
