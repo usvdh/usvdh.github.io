@@ -135,6 +135,7 @@ Als je een tijdje op de Fediverse zit en je je wat comfortabeler voelt, kun je g
 * [fediverseresources.com - Extensive list of resources about the Fediverse](https://fediverseresources.com/)
 * [fedi.garden - An easy and stress-free way of choosing a Fediverse server](https://fedi.garden/)
 * [Transferring your Mastodon account to another server](https://fedi.tips/transferring-your-mastodon-account-to-another-server/)
+* [thehmm.nl - Mastodon explained](https://thehmm.nl/mastodon-explained/)
 
 Sommigen van deze bronnen heb ik gevonden dankzij de [varia](https://varia.zone/) fediverse meetup, meer informatie daarover verder naar beneden.
 

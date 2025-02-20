@@ -137,6 +137,7 @@ Now, you've been on the Fediverse for a while, and want to start looking at diff
 * [fediverseresources.com - Extensive list of resources about the Fediverse](https://fediverseresources.com/)
 * [fedi.garden - An easy and stress-free way of choosing a Fediverse server](https://fedi.garden/)
 * [Transferring your Mastodon account to another server](https://fedi.tips/transferring-your-mastodon-account-to-another-server/)
+* [thehmm.nl - Mastodon explained](https://thehmm.nl/mastodon-explained/)
 
 Some of resources I found through the [varia](https://varia.zone/) fediverse meetup, more on it below!
 
