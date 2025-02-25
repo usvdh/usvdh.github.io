@@ -22,11 +22,11 @@ Currently a student of Image & Media Technology in Utrecht, with a past as a fro
 
 I consist of three parts:
 
-Part One: At my core I'm a coder. A coder that's creative, but not a creative coder. I enjoy working with sound, image, and interactivity, and creating connections between the physical and digital worlds. I can make things from practical mobile applications and websites to interactive art installations where you can talk with an AI plant.
+* At my core I'm a coder. A coder that's creative, but not a creative coder. I enjoy working with sound, image, and interactivity, and creating connections between the physical and digital worlds. I can make things from practical mobile applications and websites to interactive art installations where you can talk with an AI plant.
 
-Part Two: I'm an ecological activist, a guerilla gardener. In this part of my practice I often involve ecology; think of nature sounds and biomaterials. I enjoy being outside and closing my eyes to listen to all the sounds. I try to think of sustainable ways of computing, and how we can use technology.
+* I'm try to be an ecological activist, sometimes a guerilla gardener. In this part of my practice I often involve ecology; think of nature sounds and biomaterials. I enjoy being outside and closing my eyes to listen to all the sounds. I try to think of sustainable ways of computing, and how we can use technology.
 
-Part Three: I'm worried about the future of the internet. I dream of a free and decentral internet, where users can be users and not capital to be exploited. I try to spread awareness of how we are exploited by big tech, and what the alternatives are.
+* I'm worried about the future of the internet. I dream of a free and decentral internet, where users can be users and not capital to be exploited. I try to spread awareness of how we are exploited by big tech, and what the alternatives are.
 
 These three parts of me intersect and intertwine, and the existance of all three creates me. I always try to involve others in my practice, and take people along with me.
 

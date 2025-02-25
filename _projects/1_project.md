@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Plant Cohabitation
-description: In our daily lives, we coexist with more organisms than we realise. The plant that we often see as decoration makes sounds beyond our audible range that many mammals and insects can hear. Their presence in our environment is much greater than we think.
+description: In our daily lives, we coexist with more organisms than we realise.
 img: assets/img/plantcohabitation/img2.jpg
 importance: 1
 category: work
