@@ -98,7 +98,7 @@ ninja.data = [{
               window.location.href = "/news/hakubo-error030/";
             },},{id: "projects-plant-cohabitation",
           title: 'Plant Cohabitation',
-          description: "In our daily lives, we coexist with more organisms than we realise. The plant that we often see as decoration makes sounds beyond our audible range that many mammals and insects can hear. Their presence in our environment is much greater than we think.",
+          description: "In our daily lives, we coexist with more organisms than we realise.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-fpp-paradiso-untitled",
