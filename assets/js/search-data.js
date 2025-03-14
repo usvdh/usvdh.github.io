@@ -111,6 +111,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-march-13th-2025",
+          title: 'March 13th 2025',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/fieldrecording-14mar2025/";
             },},{
         id: 'social-email',
         title: 'email',
