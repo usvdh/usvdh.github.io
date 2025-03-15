@@ -2,9 +2,9 @@
 layout: page
 title: I LIGHT U 2024 - Hoog Catharijne
 description: 
-img: assets/img/hoogcatharijne/stroom-2.jpg
+img: assets/img/hoogcatharijne/stroom-2b.jpg
 importance: 2
-category: work
+category: installation
 giscus_comments: false
 ---
 

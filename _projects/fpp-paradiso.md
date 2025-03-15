@@ -4,7 +4,7 @@ title: FPP Paradiso - Untitled
 description: In collaboration with Joni van de Griendt. A project about the influence of mobile phones on our daily lives.
 img: assets/img/fppparadiso/img2.jpg
 importance: 2
-category: work
+category: installation
 giscus_comments: false
 ---
 

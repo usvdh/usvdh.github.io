@@ -4,7 +4,7 @@ title: Plant Cohabitation
 description: In our daily lives, we coexist with more organisms than we realise.
 img: assets/img/plantcohabitation/img2.jpg
 importance: 1
-category: work
+category: installation
 related_publications: false
 ---
 
