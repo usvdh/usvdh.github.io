@@ -96,6 +96,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/hakubo-error030/";
+            },},{id: "projects-march-25th-2025",
+          title: 'March 25th 2025',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/datavisualisatie/";
             },},{id: "projects-march-15th-2025",
           title: 'March 15th 2025',
           description: "",
