@@ -101,11 +101,6 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/datavisualisatie/";
-            },},{id: "projects-march-15th-2025",
-          title: 'March 15th 2025',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/datavisualisatie_v3/";
             },},{id: "projects-digitalfrontier-cc",
           title: 'digitalfrontier.cc',
           description: "a central collection of resources (concepts, movements, and initiatives) on navigating today&#39;s digital landscape.",
