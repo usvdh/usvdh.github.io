@@ -121,6 +121,11 @@ ninja.data = [{
           description: "Generative algorithmic audio-visual installation in collaboration with Allard Hebbink.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/hakubo/";
+            },},{id: "projects-hku-one",
+          title: 'hku.one',
+          description: "Platform for and by HKU students to find communities, events and other handy resources.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/hkuone/";
             },},{id: "projects-i-light-u-2024-hoog-catharijne",
           title: 'I LIGHT U 2024 - Hoog Catharijne',
           description: "",
