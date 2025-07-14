@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>You can find me in:</p>
-    <p>Utrecht (NL)</p>
+    <p>Rotterdam (NL)</p>
     <p>Tokyo (JP)</p>
 
 news: true # includes a list of news items
